@@ -1,0 +1,396 @@
+[
+  {
+    "timestamp": "2023-04-11T14:09:45.403Z",
+    "action": "Login",
+    "operator": null,
+    "machine": {
+      "idmachine": 150,
+      "description": "700002",
+      "internalid": "772e8e8853d9aaa0",
+      "tank": 90,
+      "photo": null,
+      "status": 1,
+      "machineCode": "700002",
+      "machineType": "ESTEIRA",
+      "deviceID": "772e8e8853d9aaa0",
+      "idconsumer": 1,
+      "created_at": "2022-09-28T14:17:00.000000Z",
+      "updated_at": "2022-09-28T14:17:00.000000Z",
+      "consumer": {
+        "idconsumer": 1,
+        "cpf_cnpj": "43234454345",
+        "name": "Mustafa Weissnat",
+        "birthday": "1996-02-22",
+        "email": "marianna94@example.net",
+        "address": "Rua Victor San Miguel",
+        "zipcode": "16202001",
+        "number": "343",
+        "complement": "",
+        "status": 1,
+        "registration": "1992-06-22 00:00:00",
+        "idcity": 1,
+        "created_at": "2022-03-03T13:22:16.000000Z",
+        "updated_at": "2022-03-03T13:22:16.000000Z"
+      }
+    },
+    "status": true,
+    "description": "Realizado Login",
+    "object": {}
+  },
+  {
+    "timestamp": "2023-04-11T14:09:48.254Z",
+    "action": "Apontamento",
+    "operator": {
+      "idoperator": 321,
+      "name": "Jos\u00e9 Natanael",
+      "cpf_cnpj": "452.193.168-50",
+      "status": 1,
+      "registration": "2022-12-20 12:13:44",
+      "code": "5669",
+      "created_at": "2022-12-20T12:14:45.000000Z",
+      "updated_at": "2022-12-20T12:14:45.000000Z"
+    },
+    "machine": {
+      "idmachine": 150,
+      "description": "700002",
+      "internalid": "772e8e8853d9aaa0",
+      "tank": 90,
+      "photo": null,
+      "status": 1,
+      "machineCode": "700002",
+      "machineType": "ESTEIRA",
+      "deviceID": "772e8e8853d9aaa0",
+      "idconsumer": 1,
+      "created_at": "2022-09-28T14:17:00.000000Z",
+      "updated_at": "2022-09-28T14:17:00.000000Z",
+      "consumer": {
+        "idconsumer": 1,
+        "cpf_cnpj": "43234454345",
+        "name": "Mustafa Weissnat",
+        "birthday": "1996-02-22",
+        "email": "marianna94@example.net",
+        "address": "Rua Victor San Miguel",
+        "zipcode": "16202001",
+        "number": "343",
+        "complement": "",
+        "status": 1,
+        "registration": "1992-06-22 00:00:00",
+        "idcity": 1,
+        "created_at": "2022-03-03T13:22:16.000000Z",
+        "updated_at": "2022-03-03T13:22:16.000000Z"
+      }
+    },
+    "status": true,
+    "description": "Realizado undefined - undefined",
+    "object": {}
+  },
+  {
+    "timestamp": "2023-04-11T14:53:30.557Z",
+    "action": "Login",
+    "operator": {
+      "idoperator": 321,
+      "name": "Jos\u00e9 Natanael",
+      "cpf_cnpj": "452.193.168-50",
+      "status": 1,
+      "registration": "2022-12-20 12:13:44",
+      "code": "5669",
+      "created_at": "2022-12-20T12:14:45.000000Z",
+      "updated_at": "2022-12-20T12:14:45.000000Z"
+    },
+    "machine": {
+      "idmachine": 150,
+      "description": "700002",
+      "internalid": "772e8e8853d9aaa0",
+      "tank": 90,
+      "photo": null,
+      "status": 1,
+      "machineCode": "700002",
+      "machineType": "ESTEIRA",
+      "deviceID": "772e8e8853d9aaa0",
+      "idconsumer": 1,
+      "created_at": "2022-09-28T14:17:00.000000Z",
+      "updated_at": "2022-09-28T14:17:00.000000Z",
+      "consumer": {
+        "idconsumer": 1,
+        "cpf_cnpj": "43234454345",
+        "name": "Mustafa Weissnat",
+        "birthday": "1996-02-22",
+        "email": "marianna94@example.net",
+        "address": "Rua Victor San Miguel",
+        "zipcode": "16202001",
+        "number": "343",
+        "complement": "",
+        "status": 1,
+        "registration": "1992-06-22 00:00:00",
+        "idcity": 1,
+        "created_at": "2022-03-03T13:22:16.000000Z",
+        "updated_at": "2022-03-03T13:22:16.000000Z"
+      }
+    },
+    "status": true,
+    "description": "Realizado Login",
+    "object": {}
+  },
+  {
+    "timestamp": "2023-04-11T14:53:33.131Z",
+    "action": "Apontamento",
+    "operator": {
+      "idoperator": 321,
+      "name": "Jos\u00e9 Natanael",
+      "cpf_cnpj": "452.193.168-50",
+      "status": 1,
+      "registration": "2022-12-20 12:13:44",
+      "code": "5669",
+      "created_at": "2022-12-20T12:14:45.000000Z",
+      "updated_at": "2022-12-20T12:14:45.000000Z"
+    },
+    "machine": {
+      "idmachine": 150,
+      "description": "700002",
+      "internalid": "772e8e8853d9aaa0",
+      "tank": 90,
+      "photo": null,
+      "status": 1,
+      "machineCode": "700002",
+      "machineType": "ESTEIRA",
+      "deviceID": "772e8e8853d9aaa0",
+      "idconsumer": 1,
+      "created_at": "2022-09-28T14:17:00.000000Z",
+      "updated_at": "2022-09-28T14:17:00.000000Z",
+      "consumer": {
+        "idconsumer": 1,
+        "cpf_cnpj": "43234454345",
+        "name": "Mustafa Weissnat",
+        "birthday": "1996-02-22",
+        "email": "marianna94@example.net",
+        "address": "Rua Victor San Miguel",
+        "zipcode": "16202001",
+        "number": "343",
+        "complement": "",
+        "status": 1,
+        "registration": "1992-06-22 00:00:00",
+        "idcity": 1,
+        "created_at": "2022-03-03T13:22:16.000000Z",
+        "updated_at": "2022-03-03T13:22:16.000000Z"
+      }
+    },
+    "status": true,
+    "description": "Realizado undefined - undefined",
+    "object": {}
+  },
+  {
+    "timestamp": "2023-04-11T14:53:45.252Z",
+    "action": "Checklist",
+    "operator": {
+      "idoperator": 321,
+      "name": "Jos\u00e9 Natanael",
+      "cpf_cnpj": "452.193.168-50",
+      "status": 1,
+      "registration": "2022-12-20 12:13:44",
+      "code": "5669",
+      "created_at": "2022-12-20T12:14:45.000000Z",
+      "updated_at": "2022-12-20T12:14:45.000000Z"
+    },
+    "machine": {
+      "idmachine": 150,
+      "description": "700002",
+      "internalid": "772e8e8853d9aaa0",
+      "tank": 90,
+      "photo": null,
+      "status": 1,
+      "machineCode": "700002",
+      "machineType": "ESTEIRA",
+      "deviceID": "772e8e8853d9aaa0",
+      "idconsumer": 1,
+      "created_at": "2022-09-28T14:17:00.000000Z",
+      "updated_at": "2022-09-28T14:17:00.000000Z",
+      "consumer": {
+        "idconsumer": 1,
+        "cpf_cnpj": "43234454345",
+        "name": "Mustafa Weissnat",
+        "birthday": "1996-02-22",
+        "email": "marianna94@example.net",
+        "address": "Rua Victor San Miguel",
+        "zipcode": "16202001",
+        "number": "343",
+        "complement": "",
+        "status": 1,
+        "registration": "1992-06-22 00:00:00",
+        "idcity": 1,
+        "created_at": "2022-03-03T13:22:16.000000Z",
+        "updated_at": "2022-03-03T13:22:16.000000Z"
+      }
+    },
+    "status": true,
+    "description": "Realizado Checklist",
+    "object": [
+      {
+        "checklistQuestion": {
+          "idchecklistQuestion": 1,
+          "machineType": "ESTEIRA",
+          "question": "Pneu esta ok ?",
+          "idconsumer": 1,
+          "created_at": "2018-07-28T07:43:46.000000Z",
+          "updated_at": "2003-05-17T23:09:59.000000Z",
+          "orderNumber": 0
+        },
+        "checked": true
+      },
+      {
+        "checklistQuestion": {
+          "idchecklistQuestion": 2,
+          "machineType": "ESTEIRA",
+          "question": "Nivel de combustivel",
+          "idconsumer": 1,
+          "created_at": "1975-07-06T09:06:56.000000Z",
+          "updated_at": "1983-04-24T23:43:38.000000Z",
+          "orderNumber": 0
+        },
+        "checked": true
+      },
+      {
+        "checklistQuestion": {
+          "idchecklistQuestion": 3,
+          "machineType": "ESTEIRA",
+          "question": "Luz no painel",
+          "idconsumer": 1,
+          "created_at": "1997-03-05T06:04:02.000000Z",
+          "updated_at": "2004-10-29T14:23:35.000000Z",
+          "orderNumber": 0
+        },
+        "checked": true
+      },
+      {
+        "checklistQuestion": {
+          "idchecklistQuestion": 4,
+          "machineType": "ESTEIRA",
+          "question": "Press\u00e3o de \u00f3leo",
+          "idconsumer": 1,
+          "created_at": "2015-01-08T06:47:49.000000Z",
+          "updated_at": "1985-08-07T21:03:43.000000Z",
+          "orderNumber": 0
+        },
+        "checked": true
+      },
+      {
+        "checklistQuestion": {
+          "idchecklistQuestion": 5,
+          "machineType": "ESTEIRA",
+          "question": "Sistema hidraulico",
+          "idconsumer": 1,
+          "created_at": "1984-05-27T10:37:35.000000Z",
+          "updated_at": "1984-12-22T12:52:47.000000Z",
+          "orderNumber": 0
+        },
+        "checked": true
+      },
+      {
+        "checklistQuestion": {
+          "idchecklistQuestion": 6,
+          "machineType": "ESTEIRA",
+          "question": "Painel de instrumentos",
+          "idconsumer": 1,
+          "created_at": "1973-08-15T21:19:01.000000Z",
+          "updated_at": "2018-07-16T23:16:13.000000Z",
+          "orderNumber": 0
+        },
+        "checked": true
+      },
+      {
+        "checklistQuestion": {
+          "idchecklistQuestion": 7,
+          "machineType": "ESTEIRA",
+          "question": "Freio de estacionamento",
+          "idconsumer": 1,
+          "created_at": "1988-09-10T20:21:07.000000Z",
+          "updated_at": "1997-05-21T15:34:08.000000Z",
+          "orderNumber": 0
+        },
+        "checked": true
+      },
+      {
+        "checklistQuestion": {
+          "idchecklistQuestion": 8,
+          "machineType": "ESTEIRA",
+          "question": "Sinal sonoro de r\u00e9",
+          "idconsumer": 1,
+          "created_at": "2021-11-19T09:57:09.000000Z",
+          "updated_at": "1979-11-13T08:35:55.000000Z",
+          "orderNumber": 0
+        },
+        "checked": true
+      },
+      {
+        "checklistQuestion": {
+          "idchecklistQuestion": 13,
+          "machineType": "esteira",
+          "question": "TESTE CHECKLIST",
+          "idconsumer": 1,
+          "created_at": "2022-03-26T20:34:22.000000Z",
+          "updated_at": "2022-05-10T14:21:02.000000Z",
+          "orderNumber": 0
+        },
+        "checked": true
+      },
+      {
+        "checklistQuestion": {
+          "idchecklistQuestion": 46,
+          "machineType": "Esteira",
+          "question": "Teste de Checklist",
+          "idconsumer": 1,
+          "created_at": "2022-04-07T23:58:31.000000Z",
+          "updated_at": "2022-05-10T14:21:37.000000Z",
+          "orderNumber": 0
+        },
+        "checked": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2023-04-11T14:54:02.547Z",
+    "action": "Logout",
+    "operator": {
+      "idoperator": 321,
+      "name": "Jos\u00e9 Natanael",
+      "cpf_cnpj": "452.193.168-50",
+      "status": 1,
+      "registration": "2022-12-20 12:13:44",
+      "code": "5669",
+      "created_at": "2022-12-20T12:14:45.000000Z",
+      "updated_at": "2022-12-20T12:14:45.000000Z"
+    },
+    "machine": {
+      "idmachine": 150,
+      "description": "700002",
+      "internalid": "772e8e8853d9aaa0",
+      "tank": 90,
+      "photo": null,
+      "status": 1,
+      "machineCode": "700002",
+      "machineType": "ESTEIRA",
+      "deviceID": "772e8e8853d9aaa0",
+      "idconsumer": 1,
+      "created_at": "2022-09-28T14:17:00.000000Z",
+      "updated_at": "2022-09-28T14:17:00.000000Z",
+      "consumer": {
+        "idconsumer": 1,
+        "cpf_cnpj": "43234454345",
+        "name": "Mustafa Weissnat",
+        "birthday": "1996-02-22",
+        "email": "marianna94@example.net",
+        "address": "Rua Victor San Miguel",
+        "zipcode": "16202001",
+        "number": "343",
+        "complement": "",
+        "status": 1,
+        "registration": "1992-06-22 00:00:00",
+        "idcity": 1,
+        "created_at": "2022-03-03T13:22:16.000000Z",
+        "updated_at": "2022-03-03T13:22:16.000000Z"
+      }
+    },
+    "status": true,
+    "description": "Logout realizado.",
+    "object": {}
+  }
+]
